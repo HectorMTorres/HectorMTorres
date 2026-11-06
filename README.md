@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un **Ingeniero de Sistemas** con experiencia en el sector de transporte y logística, actualmente cursando la carrera de **Ingeniería de Software** en la Universidad Veracruzana.
+Soy un **Ingeniero de Software** con experiencia en el sector de transporte y logística, actualmente cursando la carrera de **Ingeniería de Software** en la Universidad Veracruzana.
 
 Me especializo en el desarrollo de **soluciones tecnológicas escalables**, con enfoque en:
 - 🗺️ **Sistemas de ruteo y optimización logística**
